@@ -1,2 +1,6 @@
-# Number-Words-to-Digits-Convertor
-A function to convert numbers in words into digits.
+# Number Words to Digits Converter
+
+A Python function that converts numbers written in words into digits.
+
+- 'One Thousand' = 1000
+- 'Thirty one million, seven hundred and sixty one' = 31000761
